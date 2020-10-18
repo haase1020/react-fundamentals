@@ -106,10 +106,8 @@ however _sometimes_ you can accomplish the task and the tests still fail if you
 implement things differently than I do in my solution, so don't look to them as
 a complete authority.
 
-### Exercises
+### Exercise
 
-- `src/exercise/00.md`: Background, Exercise Instructions, Extra Credit
-- `src/exercise/00.js`: Exercise with Emoji helpers
 - `src/__tests__/00.js`: Tests
 - `src/final/00.js`: Final version
 - `src/final/00.extra-0.js`: Final version of extra credit
@@ -188,6 +186,7 @@ Thanks goes to these wonderful people
 
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
+
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the
